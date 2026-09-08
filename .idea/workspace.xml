@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18dc9d96-ba62-406d-aed9-6ce16311a96f" name="Changes" comment="ETL Data Pipeline using Python. This version is the starting point where I set up the basic, central database logic.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="18dc9d96-ba62-406d-aed9-6ce16311a96f" name="Changes" comment="ETL Data Pipeline using Python. I updated git ignore." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,7 +90,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788909881281</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="ETL Data Pipeline using Python. I updated git ignore.">
+      <option name="closed" value="true" />
+      <created>1788910110277</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1788910110278</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -120,7 +126,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="ETL Data Pipeline using Python. This version is the starting point where I set up the basic, central database logic." />
-    <option name="LAST_COMMIT_MESSAGE" value="ETL Data Pipeline using Python. This version is the starting point where I set up the basic, central database logic." />
+    <MESSAGE value="ETL Data Pipeline using Python. I updated git ignore." />
+    <option name="LAST_COMMIT_MESSAGE" value="ETL Data Pipeline using Python. I updated git ignore." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
