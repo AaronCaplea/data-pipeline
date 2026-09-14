@@ -1,0 +1,22 @@
+# Virtual Environments
+.venv/
+venv/
+
+# IDE Configurations
+.idea/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Data and Secrets
+**/data/
+config.py
+
+# Local SQLite Mock Databases
+*.db
+target_warehouse_mock.db
+source_mock.db
+
+# Test Bench
+run-local-test.py

@@ -1,0 +1,21 @@
+version: '3.8'
+
+services:
+  source_mysql:
+    image: mysql:8.0
+    container_name: source_mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: SaTRapA48*
+      MYSQL_DATABASE: clinical_db
+    ports:
+      - "3307:3306"
+
+  target_postgres:
+    image: postgres:15
+    container_name: target_postgres
+    environment:
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: pgpassword
+      POSTGRES_DB: analytics_warehouse
+    ports:
+      - "5432:5432"
